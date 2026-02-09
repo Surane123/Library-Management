@@ -21,7 +21,7 @@ This project demonstrates basic CRUD-style operations, MVC layering, and session
 ## 🏗️ Project Structure
 
 ```
-src/main/java/com/wipro/book/
+src/main/java/com/kce/book/
 │
 ├── bean/
 │   ├── BookBean.java
